@@ -1,8 +1,8 @@
-# Eternaldad
+# Budgetdad
 
 **A community-driven platform and resource hub for single fathers.**
 
-Built by [Mwebe Morgan](https://beacons.ai/budgetdad) — 53-year-old single father of six, 25-year headteacher, the man who feeds six children on **$327.45 a week**.
+Built by [Mwebe Morgan](https://beacons.ai/budgetdad) — 53-year-old single father of six, 25-year headteacher, the man who feeds six children on **$327.45 a week**. For four years, he worked as an admin manager for an engineering company. He learnt early that systems work better than having none.
 
 ---
 
@@ -10,11 +10,11 @@ Built by [Mwebe Morgan](https://beacons.ai/budgetdad) — 53-year-old single fat
 
 **Past 1am. Kevin, nine years old, running a fever. Two rounds of vomiting had pulled us both out of sleep.**
 
-A father outside a locked dispensary door. Empty medicine cabinet. No backup.
+A father outside a locked dispensary door at 1AM. Empty medicine cabinet. No backup.
 
 The door opened. The attendant dispensed the paracetamol. I paid. I thanked her twice.
 
-Walking home, Kevin leaning into my side, she asked the question that cut clean through the night air:
+While walking home with Kevin leaning into my side, she asked the question that cut clean through the chill night air:
 
 > **"Why don't you have medicine for your children?"**
 
@@ -33,8 +33,9 @@ Three months after that night, I began tracking **every single expenditure**.
 - Every packet of paracetamol
 - Every school fee payment
 - Every repair
+- Every utlity bill
 
-**First month: $450 weekly grocery bill.**
+**First month: $450 weekly grocery bill for a family of seven.**
 
 No meal plan. No shopping list. No batch cooking. No fixed budget. Shopping by feeling. Three market trips a week.
 
@@ -44,7 +45,7 @@ Same six children. Same market. **Higher protein. Better nutrition. Zero food wa
 
 The **$122.55 difference** is not the cost of better food. It is the cost of the system that was previously absent.
 
-That is the measure of Eternaldad: **Systems produce outcomes. Improvisation produces crisis.**
+That is the measure of Budgetdad: **Systems produce outcomes. Improvisation produces crisis.**
 
 ---
 
@@ -55,8 +56,8 @@ You are a single father.
 You might be:
 - Newly single and overwhelmed
 - Managing six children or one child
-- Working from home or working three jobs
-- In East Africa or anywhere else on the planet
+- Working from home or working three jobs to provide for your family
+- In the US, Britain, East Africa or anywhere else on the planet
 - Exhausted, scared, unsure if you're doing this right
 
 **You are not broken. You are not failing. You are simply operating without a system.**
@@ -74,6 +75,7 @@ Real, tested approaches to:
 - **Discipline that holds** — Boundaries that actually work because they come from a system, not emotion
 - **Routines that protect your morning** — The 5:30am start that purchases ninety minutes of household functionality
 - **Medical preparedness** — Never be caught outside a locked dispensary again
+- **Managing teenager daughter** - When she pulls away - A single father's guide to raising a Teenage Daughter
 
 ### 👥 **Community**
 - **Discussions**: Share your household systems. Ask questions. Learn from other single fathers.
@@ -84,6 +86,7 @@ Real, tested approaches to:
 Free and paid resources:
 - Budget templates
 - Meal planning guides
+- SAAS Apps to manage household chaos, meal planning, budgeting, discipline, etc.
 - Parenting frameworks
 - Discipline systems
 - Work-from-home routines
@@ -112,11 +115,11 @@ We do not pretend this is easy. We describe what is hard. Then we describe the s
 **4. The Household Is the Evidence**
 Every principle is grounded in a specific moment:
 - **Kate (13)**: The teenage conversation, psychological safety, credibility
-- **Karen (10)**: Quiet efficiency, the child who shows up
+- **Karen (10)**: Quiet efficiency, the child who shows up, but also playful
 - **Kevin (9)**: The 1am dispensary, medical preparedness, the cost of no system
-- **Marie (8)**: Age-appropriate responsibility, compound household benefit
-- **Kennedy (6)**: Discipline, boundaries, the broom negotiation
-- **Apollo (5)**: Meal planning, food safety, nothing wasted
+- **Marie (8)**: Age-appropriate responsibility, compound household benefit, the noisy one
+- **Kennedy (6)**: Discipline, boundaries, the broom negotiation, toast master
+- **Apollo (5)**: Meal planning, food safety, nothing wasted, so talkative
 
 **5. Systems Produce Outcomes**
 Improvisation produces crisis. Systems produce freedom.
@@ -175,13 +178,13 @@ No claims without sources. No statistics without verification. No advice without
 
 Budget Dad content is written in one voice: Mwebe Morgan's.
 
-Not a persona. The actual person.
+Not a persona. The actual person.The Single Dad behind the scenes
 
 We do not tell you a household was tense. We tell you the exact moment when the boundary held or collapsed. We do not say a system failed. We identify the specific decision that produced the failure and explain why it mattered.
 
 ---
 
-## What Eternaldad Is Not
+## What Budget Dad Is Not
 
 - **Not inspirational parenting content** — "You've got this, warrior dad." We respect your intelligence enough to tell you what went wrong and what to do about it.
 - **Not generic budgeting advice** — "Save money by spending less." We give you $327.45, tracked to the cent, tested across 24 months, proven with six children.
@@ -192,7 +195,7 @@ We do not tell you a household was tense. We tell you the exact moment when the 
 
 ## Community Standards
 
-Eternaldad is built on one principle: **Single fathers deserve a space where expertise is demonstrated, not claimed. Systems are specific. Advice is tested. Language is direct.**
+Budgetdad is built on one principle: **Single fathers deserve a space where expertise is demonstrated, not claimed. Systems are specific. Advice is tested. Language is direct.**
 
 See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for community standards.
 
@@ -200,7 +203,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for community standards.
 
 ## Products & Resources
 
-All Eternaldad products are built in public on this repository and sold through:
+All Budgetdad products are built in public on this repository and sold through:
 - **Gumroad** (Under Construction): [budgetdad.gumroad.com](https://budgetdad.gumroad.com)
 - **Beacons** (Under Construction): [beacons.ai/budgetdad](https://beacons.ai/budgetdad)
 
@@ -228,7 +231,7 @@ Every product includes:
 
 ## The Promise
 
-**Everything in Eternaldad has been tested inside a real household with six real children under real financial and logistical pressure.**
+**Everything in Budgetdad has been tested inside a real household with six real children under real financial and logistical pressure.**
 
 This is not a hypothesis. This is not a theory. This is a system that works because it is built on the non-negotiable requirement that it must work.
 
@@ -236,7 +239,7 @@ You can trust it. Not because I claim expertise. Because I have lived the altern
 
 ---
 
-**Eternaldad exists because single fathers deserve systems, not sympathy.**
+**Budgetdad exists because single fathers deserve systems, not sympathy.**
 
 Started by [Mwebe Morgan](https://beacons.ai/budgetdad) in April 2026.
 
