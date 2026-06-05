@@ -126,9 +126,7 @@ Improvisation produces crisis. Systems produce freedom.
 ## Getting Started
 
 ### If You're New Here
-1. Read the [Brand Voice Guide](./Budget_Dad_Brand_Voice.js) — This is how we communicate
-2. Explore the [Workflow System](./Budget_Dad_Workflow.jsx) — This is how we operate
-3. Start with one system — the envelope budget, the 5:30am routine, the meal plan — and test it in your household for 30 days
+1. Start with one system — the envelope budget, the 5:30am routine, the meal plan — and test it in your household for 30 days
 
 ### If You Want to Contribute
 1. Read [CONTRIBUTING.md](./CONTRIBUTING.md)
@@ -179,8 +177,6 @@ Budget Dad content is written in one voice: Mwebe Morgan's.
 
 Not a persona. The actual person.
 
-The voice model is **Phil McNulty of BBC Sport** — because McNulty achieves something most writing does not: simultaneously authoritative and readable, analytically precise and emotionally engaged, specific about facts and exact about meaning.
-
 We do not tell you a household was tense. We tell you the exact moment when the boundary held or collapsed. We do not say a system failed. We identify the specific decision that produced the failure and explain why it mattered.
 
 ---
@@ -205,8 +201,8 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for community standards.
 ## Products & Resources
 
 All Eternaldad products are built in public on this repository and sold through:
-- **Gumroad**: [budgetdad.gumroad.com](https://budgetdad.gumroad.com)
-- **Beacons**: [beacons.ai/budgetdad](https://beacons.ai/budgetdad)
+- **Gumroad** (Under Construction): [budgetdad.gumroad.com](https://budgetdad.gumroad.com)
+- **Beacons** (Under Construction): [beacons.ai/budgetdad](https://beacons.ai/budgetdad)
 
 Current products:
 - **BD-01**: Budget Template ($9)
